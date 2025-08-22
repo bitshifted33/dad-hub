@@ -3,16 +3,13 @@
 # dependencies
 /node_modules
 /.pnp
-<<<<<<< HEAD
 .pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-=======
 .pnp.js
->>>>>>> 41501356476a35bb0b82a9283a192f9a1ea08c00
 
 # testing
 /coverage
